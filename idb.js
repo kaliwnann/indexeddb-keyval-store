@@ -1,0 +1,1 @@
+export const get = (k) => Promise.resolve(null);
